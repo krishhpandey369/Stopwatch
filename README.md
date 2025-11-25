@@ -10,7 +10,7 @@ The whole purpose of this project was to learn how GUI applications work and han
 
 Lightweight, easy for novices, and very smooth to work with.
 
--
+
 
 # ⭐ Features
 
@@ -36,7 +36,7 @@ Tkinter is an open-source library included with Python.
 Datetime module for time formatting
 
 
--
+
 # ▶ How to Run the Project
 
 
@@ -50,11 +50,11 @@ Datetime module for time formatting
 
 5. Execute the program:
 
-python stopwatch.py
+   python stopwatch.py
 
 When the window is opened, you can test the stopwatch with the Start, Stop, and Reset buttons.
 
----
+
 
 # 🧪 Testing the Application
 
